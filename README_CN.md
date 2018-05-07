@@ -2,7 +2,7 @@
 
 * `SpEditText`——输入@xxx #话题#等特殊字符，实现整体删除，文字高亮等功能的自定义EditText
 * `GifTextUtil`——一个帮助在TextView的图文混排中高效显示gif的工具类
-
+*  'GifDrawable' 原有仓库失效需要修改为pl.droidsonroids.gif:android-gif-drawable:1.2.2
 ## 截图
 
 <img src="artworks/fullSp.gif" width = "240" height = "400" alt="ScreenShot"  /><img src="artworks/emojiSp.gif" width = "240" height = "400" alt="ScreenShot"  />
